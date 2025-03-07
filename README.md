@@ -14,8 +14,8 @@ This application allows users to insert a URL, fetch metadata asynchronously usi
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/soroux/Laravel-Async-Bookmark-Fetcher.git
+   cd Laravel-Async-Bookmark-Fetcher
 2. **Create environment file:**
    ```sh
    cp .env.example .env
